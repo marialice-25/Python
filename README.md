@@ -5,4 +5,8 @@
 Python projects for machine learning and data analytics.
 
 
-Projects built with the Python language, using the Jupyter notebook IDE to contemplate several libraries and packages.
+Projects built with the Python language, using the Jupyter Notebook IDE to contemplate several libraries and packages.
+
+Processes for manipulating, processing, cleaning and extracting information from data sets.
+
+Commented codes to demonstrate how machine learning works.
