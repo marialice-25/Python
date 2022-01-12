@@ -2,7 +2,7 @@
 
 
 # Python
-Python projects for machine learning and data analytics.
+Python projects for machine learning, data analytics and process automation.
 
 
 Projects built with the Python language, using the Jupyter Notebook IDE to contemplate several libraries and packages.
